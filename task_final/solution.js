@@ -49,7 +49,7 @@ function sendRequest(name, phone, address, goods, sum) {
     //data.client = 'Иван'
     
 
-    let jsonData = JSON.stringify(Object)
+    let jsonData = JSON.stringify(Object);
 
     return jsonData;
 }
